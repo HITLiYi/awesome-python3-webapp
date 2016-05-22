@@ -1,1 +1,4 @@
-A new project for my sql and web
+awesome-python3-webapp
+======================
+
+A python webapp tutorial.
